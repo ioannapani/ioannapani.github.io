@@ -1,0 +1,22 @@
+<html>
+  <head>
+<style>
+div{ float:left; width:48%;}
+  </style>
+    
+    <title>το προσωπικό μου αποθετήριο</title>
+  </head>
+  <body>
+    <DIV>
+    <h1>Δήμητρα Πέτσαγκα, Μαρία Μελετίου</h1>
+    <h2>Οι εργασίες μου</h2>
+    <a target="_blank" href="map"> <span>χάρτης</span>
+      &#10084;
+    
+    </a>
+    </DIV>
+    <DIV>
+<img src="images/chris.jpg" > </DIV>
+  </body>
+ 
+</html>
